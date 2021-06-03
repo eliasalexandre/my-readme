@@ -4,7 +4,7 @@
 
 - [X] Functions
 - [X] Features
-- [X] Higlight
+- [X] Highlight
 
 ---
 
