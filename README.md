@@ -4,13 +4,13 @@
 
 - [X] Functions
 - [X] Features
-- [X] Highlight
+- [X] Highlights
 
 ---
 
 🚧 **Basic notices** 🚧
 
-[check](https://github.com/eliasallex)
+[airship anchor](https://github.com/eliasallex)
 
 ---
 
